@@ -10,7 +10,6 @@
 <div class="cards">
   <div class="row">
     <?php print_recipes($recipes) ?>;
-    <h1>hello word</h1>
   </div>
 </div>
 <?php require_once("templates/footer.php") ?>
